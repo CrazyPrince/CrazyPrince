@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi , I'm CrazyPrince👑</b>
-<h3 align="center"><b>A cameroonian web dev</b>
+<h3 align="center"><b>A cameroonian web dev🇨🇲</b>
 <br>
 <br>
 <div align="center">
