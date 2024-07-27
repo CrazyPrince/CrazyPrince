@@ -43,6 +43,6 @@
 
 </a>
 </div>
-p align = "center">
+<p align = "center">
 	<img src = "https://github.com/CrazyPrince/CRAZY-MD-v2/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
