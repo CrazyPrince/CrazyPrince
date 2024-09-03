@@ -1,5 +1,5 @@
 <h1 align="center"><b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hi , I'm CrazyPrince👑</b>
-<h3 align="center"><b>A cameroonian web dev🇨🇲</b>
+<h3 align="center"><b>A cameroonian web dev</b>
 <br>
 <br>
 <div align="center">
@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on CRAZY MD v1
 - 🌱 I’m currently learning Node js and API
 - 👯 I’m looking to collaborate on future Bot project
-- 🤔 I’m looking for help with BAILEYS SOCKETS ContextInfo params and type of Messages
+- 🤔 I’m looking for help with nothing
 - 💬 Ask me about anything
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -45,7 +45,7 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CrazyPrince&show_icons=true&locale=en&layout=compact&theme=algolia" alt="CrazyPrince" height="192px"/>
   <br/>
 <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> life like a p*nis.
   </p>
 </details>
 
